@@ -1,0 +1,1 @@
+from .better_resize_image import BetterResizeImageInvocation
